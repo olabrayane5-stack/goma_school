@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" role="img" aria-label="Professeur de musique GOMA School">
+  <rect width="640" height="520" fill="#E2A33A"/>
+  <circle cx="316" cy="137" r="60" fill="#6B2F22"/>
+  <path d="M246 229c45-70 139-76 190 0l-18 199H264z" fill="#FFF3D2"/>
+  <path d="M252 298c-52 21-88 71-101 139h82c21-38 47-63 84-75z" fill="#9B342D"/>
+  <path d="M431 292c55 18 94 69 107 145h-84c-20-41-49-67-87-79z" fill="#B8453D"/>
+  <rect x="196" y="383" width="250" height="42" rx="21" fill="#6B2F22"/>
+  <circle cx="282" cy="404" r="31" fill="#C56A34"/>
+  <rect x="412" y="390" width="132" height="18" rx="9" fill="#4E2A1E"/>
+  <g fill="#FFF3D2" opacity=".9">
+    <circle cx="99" cy="108" r="8"/><circle cx="529" cy="87" r="8"/><circle cx="558" cy="137" r="5"/>
+  </g>
+</svg>

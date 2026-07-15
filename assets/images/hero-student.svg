@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-label="Élève de GOMA School jouant de la guitare">
+  <rect width="900" height="650" fill="#E2A33A"/>
+  <path d="M105 525c74-164 91-322 249-354 96-20 133 60 238 28 109-33 196 27 204 126 9 113-65 237-197 261-183 33-331-54-494-61z" fill="#FFF3D2" opacity=".74"/>
+  <circle cx="570" cy="130" r="64" fill="#9B342D"/>
+  <circle cx="542" cy="118" r="30" fill="#6B2F22"/>
+  <path d="M510 171c34 38 91 40 126 0l19 176H488z" fill="#FFFFFF"/>
+  <path d="M493 222c-26 42-39 95-30 161h73l24-151z" fill="#B8453D"/>
+  <path d="M641 221c31 55 39 111 23 166h-74l-28-155z" fill="#F9D56F"/>
+  <ellipse cx="520" cy="434" rx="173" ry="62" fill="#6B2F22" transform="rotate(-13 520 434)"/>
+  <ellipse cx="520" cy="434" rx="112" ry="40" fill="#C56A34" transform="rotate(-13 520 434)"/>
+  <circle cx="517" cy="434" r="30" fill="#2A1811"/>
+  <rect x="637" y="385" width="215" height="28" rx="12" fill="#4E2A1E" transform="rotate(-13 637 385)"/>
+  <path d="M431 402c-29 8-68 42-80 70" stroke="#6B2F22" stroke-width="28" stroke-linecap="round" fill="none"/>
+  <path d="M623 382c29-12 65-10 93 3" stroke="#6B2F22" stroke-width="25" stroke-linecap="round" fill="none"/>
+  <g fill="#9B342D" opacity=".9">
+    <path d="M132 149h18v82a31 31 0 1 1-18-28z"/>
+    <path d="M778 105h15v66a25 25 0 1 1-15-23z"/>
+    <path d="M746 505h13v59a22 22 0 1 1-13-20z"/>
+  </g>
+  <g stroke="#FFF3D2" stroke-width="10" stroke-linecap="round" fill="none" opacity=".95">
+    <path d="M759 129c26 1 46 22 46 48"/>
+    <path d="M779 86c51 6 91 49 91 102"/>
+  </g>
+</svg>
